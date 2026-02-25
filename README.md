@@ -1,7 +1,5 @@
 # Telecoms transmission trainers
 
-# Additional experiments
-
 <details>
 <summary> Antennas </summary>
 
@@ -226,14 +224,14 @@ A matching stub is a short, length-adjustable section of transmission line (such
 - Transmitter 
 
 <div align="center">
-<img width="500" height="500" alt="image" src="https://raw.githubusercontent.com/dexterestacion/NEC-4203-LAB-REPORT-4/refs/heads/main/Additional%20data/Antenna/Transmitter/Transmitter%20setup.jpg" />
+<img width="500" height="500" alt="image" src="https://raw.githubusercontent.com/dexterestacion/NEC-4203-LAB-REPORT-4/refs/heads/main/Setup/Antennas/Transmitter/Transmitter%20setup.jpg" />
 </div>
 
 
 - Receiver
   
 <div align="center">
-<img width="500" height="500" alt="image" src="https://raw.githubusercontent.com/dexterestacion/NEC-4203-LAB-REPORT-4/refs/heads/main/Additional%20data/Antenna/RF%20Detector/Receiver%20setup.jpg" />
+<img width="500" height="500" alt="image" src="https://raw.githubusercontent.com/dexterestacion/NEC-4203-LAB-REPORT-4/refs/heads/main/Setup/Antennas/Receiver/Receiver%20setup.jpg" />
   </div>
 	
 </details>
