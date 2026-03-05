@@ -239,9 +239,8 @@ A matching stub is a short, length-adjustable section of transmission line (such
 
 <details>
 <summary> Waveguide </summary>
-# Waveguide & DineshMicrowave Waveguide Trainer
 
-## Introduction to Waveguides
+## Introduction
 A waveguide is a physical structure that directs electromagnetic waves by confining them to a specific path.  
 In microwave engineering, waveguides are hollow metallic tubes that guide high-frequency signals with minimal loss.  
 They are widely used in radar, satellite communication, and laboratory experiments. The **DineshMicrowave Waveguide Trainer** is an educational kit designed to provide hands-on experience in microwave engineering.  
