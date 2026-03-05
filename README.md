@@ -307,5 +307,5 @@ It enables learners to study the behavior of microwaves, measure parameters, and
 
 ### Waveguide
 
-https://www.allaboutcircuits.com/textbook/alternating-current/chpt-14/waveguides/
-https://en.wikipedia.org/wiki/Waveguide
+- https://www.allaboutcircuits.com/textbook/alternating-current/chpt-14/waveguides/
+- https://en.wikipedia.org/wiki/Waveguide
