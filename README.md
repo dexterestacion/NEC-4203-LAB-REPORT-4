@@ -239,8 +239,65 @@ A matching stub is a short, length-adjustable section of transmission line (such
 
 <details>
 <summary> Waveguide </summary>
-	
-  
+# Waveguide & DineshMicrowave Waveguide Trainer
+
+## Introduction to Waveguides
+A waveguide is a physical structure that directs electromagnetic waves by confining them to a specific path.  
+In microwave engineering, waveguides are hollow metallic tubes that guide high-frequency signals with minimal loss.  
+They are widely used in radar, satellite communication, and laboratory experiments. The **DineshMicrowave Waveguide Trainer** is an educational kit designed to provide hands-on experience in microwave engineering.  
+It enables learners to study the behavior of microwaves, measure parameters, and understand the working of various microwave components.
+
+## Objectives
+- Study microwave sources (Gunn diode, Klystron).  
+- Explore waveguide sections and propagation modes.  
+- Analyze couplers, connectors, and passive devices (isolators, circulators, attenuators).  
+- Measure key parameters: SWR, attenuation, frequency response, power distribution.  
+- Understand antenna components like horn antennas and radiation patterns.  
+
+## Components of the Trainer
+
+
+<div align="center">
+<img width="500" height="500" alt="image" src="https://raw.githubusercontent.com/dexterestacion/NEC-4203-LAB-REPORT-4/refs/heads/main/Additional%20data/Waveguide/Waveguide%20trainer%20box%201.jpg" />
+  </div>
+
+<div align="center">
+<img width="500" height="500" alt="image" src="https://raw.githubusercontent.com/dexterestacion/NEC-4203-LAB-REPORT-4/refs/heads/main/Additional%20data/Waveguide/Waveguide%20trainer%20box%202.jpg" />
+  </div>
+
+
+### 1. Microwave Source
+- **Gunn Diode Oscillator:** A solid-state device that generates microwave signals in the X-band.  
+- **Klystron Oscillator:** A vacuum tube device used for stable and tunable microwave generation.  
+- **Purpose:** Provides the input signal for experiments.
+
+### 2. Waveguide Sections
+- Hollow metallic tubes with rectangular or circular cross-sections.  
+- Used to study **propagation modes**, **cut-off frequencies**, and **attenuation**.  
+- **Purpose:** Demonstrates how microwaves travel through confined paths.
+
+### 3. Directional Couplers & Connectors
+- **Directional Coupler:** Splits microwave power into two paths for measurement.  
+- **Connectors:** Link different waveguide components together.  
+- **Purpose:** Allows monitoring and measurement of transmitted and reflected signals.
+
+### 4. Passive Devices
+- **Isolator:** Ensures one-way transmission, protecting sources from reflected power.  
+- **Circulator:** Routes signals between multiple ports in a circular manner.  
+- **Attenuator:** Reduces signal strength for controlled measurements.  
+- **Purpose:** Teaches how microwave signals are managed and controlled.
+
+### 5. Measurement Instruments
+- **SWR Meter:** Measures standing wave ratio to evaluate impedance matching.  
+- **Frequency Meter:** Determines the operating frequency of the source.  
+- **Power Meter:** Measures microwave power levels.  
+- **Purpose:** Provides quantitative analysis of microwave performance.
+
+### 6. Antenna Components
+- **Horn Antenna:** Converts guided waves into free-space radiation.  
+- Used to study **radiation patterns** and **directivity**.  
+- **Purpose:** Demonstrates how microwaves are transmitted and received in practical systems.
+
 </details>
 
 # Reference
@@ -250,3 +307,6 @@ A matching stub is a short, length-adjustable section of transmission line (such
  - https://www.lenovo.com/us/en/glossary/antenna/
 
 ### Waveguide
+
+https://www.allaboutcircuits.com/textbook/alternating-current/chpt-14/waveguides/
+https://en.wikipedia.org/wiki/Waveguide
